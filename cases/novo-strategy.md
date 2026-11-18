@@ -1,6 +1,8 @@
 # Keeping implementation disciplined without making it rigid
 
-Individually authored CBS coursework, Fall2025, based on public sources about2021–2024. Separate from my Novo Nordisk internship; no internal employer material is included.
+![Case study overview](novo-strategy.svg)
+
+Individually authored CBS coursework, Fall 2025, based on public sources about 2021–2024. Separate from my Novo Nordisk internship; no internal employer material is included.
 
 **Course:** Managing Strategy Implementation in the Modern Corporation · Grade 10/12
 
