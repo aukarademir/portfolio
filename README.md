@@ -27,3 +27,13 @@ Built with HTML and CSS. No analytics, tracking scripts or external font depende
 ## Contact
 
 [aukarademir@gmail.com](mailto:aukarademir@gmail.com) · [GitHub profile](https://github.com/aukarademir)
+
+## CBS academic case studies
+
+Short, recruiter-facing summaries with context, methods, proposed next steps and limitations:
+
+- [Too Good To Go — customer experience audit](cases/too-good-to-go.md) · Customer Experience and Business Model Innovation · 12/12
+- [Arla F15 — employer branding and inclusion](cases/arla.md) · Organisational Change and Diversity Management · 10/12
+- [Novo Nordisk — strategy implementation](cases/novo-strategy.md) · Managing Strategy Implementation in the Modern Corporation · 10/12
+
+The `cases/` folder also contains responsive HTML versions and visual explanations. These are coursework cases, not claims of implemented company projects. Full papers, transcripts, participant records and private company materials are excluded.
