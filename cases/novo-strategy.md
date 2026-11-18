@@ -4,7 +4,7 @@
 
 Individually authored CBS coursework, Fall 2025, based on public sources about 2021–2024. Separate from my Novo Nordisk internship; no internal employer material is included.
 
-**Course:** Managing Strategy Implementation in the Modern Corporation · Grade 10/12
+**Course:** Managing Strategy Implementation in the Modern Corporation
 
 ## Question
 How do strategic decisions become operating routines when demand, capacity and uncertainty move at different speeds?
