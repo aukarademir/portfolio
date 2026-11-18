@@ -4,7 +4,7 @@
 
 CBS academic group project, Fall 2025. Not commissioned by Too Good To Go. I prepared the paper, analysis and presentation materials; the original submission is group-authored.
 
-**Course:** Customer Experience and Business Model Innovation · Grade 12/12
+**Course:** Customer Experience and Business Model Innovation
 
 ## Question
 How could a food-sharing platform better connect the value people expect with the experience they receive?
