@@ -4,7 +4,7 @@
 
 CBS group exam project,2025/26. An exploratory academic study, not employment or consultancy for Arla. Findings below describe the group study; individual work is not represented as sole authorship.
 
-**Course:** Organisational Change and Diversity Management · Grade 10/12
+**Course:** Organisational Change and Diversity Management
 
 ## Question
 How could Arla communicate its F15 graduate programme in a way that makes international pathways and belonging more visible?
