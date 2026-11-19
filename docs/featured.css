@@ -1,0 +1,11 @@
+
+.featured-grid,.demo-frames{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(1rem,2.5vw,2rem)}
+.featured-grid article{min-width:0;border:1px solid #dbe3de;border-radius:12px;background:white;padding:1rem}
+.featured-grid h3{margin:.4rem 0}.featured-grid p{margin:.6rem 0}
+.featured-visual{display:block;overflow:hidden;border-radius:7px;background:#ebf1ee}
+.featured-visual img,.demo-frames img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.demo-frames figure{margin:0;min-width:0}.demo-frames figcaption{font-size:.95rem;margin:.65rem 0}
+.demo-video{width:100%;display:block;border-radius:12px;background:#162c24}
+.demo-page h1{font-size:clamp(2.7rem,8vw,6rem);color:#183b31}
+@media(max-width:760px){.featured-grid,.demo-frames{grid-template-columns:1fr}}
+.hero{padding:clamp(1.6rem,4vw,3rem) 0}.hero h1{font-size:clamp(2.9rem,7vw,6.25rem);margin:.35rem 0}.hero .lead{margin:.7rem 0}.hero .meta{margin:.5rem 0}#selected-work{padding-top:1.45rem}#selected-work h2{margin-top:0}
