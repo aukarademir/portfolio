@@ -4,7 +4,7 @@
 
 A qualitative study of how corporate identity, global career pathways and everyday belonging shape the employer story. The findings inform a proposed change programme.
 
-[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/arla.html) · [PDF](../dist/assets/Arla_F15_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Arla_F15_Case_Study.pptx)
+[Read the full case](https://aukarademir.github.io/portfolio/arla.html) · [PDF](../dist/assets/Arla_F15_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Arla_F15_Case_Study.pptx)
 
 ![Arla F15 presentation](../dist/assets/arla-01.jpg)
 
