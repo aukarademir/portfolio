@@ -1,22 +1,17 @@
-# Keeping implementation disciplined without making it rigid
+# Novo Nordisk
 
-![Case study overview](novo-strategy.svg)
+**Strategy implementation** · Copenhagen Business School
 
-Individually authored CBS coursework, Fall 2025, based on public sources about 2021–2024. Separate from my Novo Nordisk internship; no internal employer material is included.
+An analysis of how authority, information and operating routines shape expansion under uncertainty. Public evidence informs a practical decision and review framework.
 
-**Course:** Managing Strategy Implementation in the Modern Corporation
+[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/novo-strategy.html) · [PDF](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pptx)
 
-## Question
-How do strategic decisions become operating routines when demand, capacity and uncertainty move at different speeds?
+![Novo Nordisk presentation](../dist/assets/novo-strategy-01.jpg)
 
-## Approach
-I examined public reports and disclosures through execution levers, uncertainty and scenario reasoning, strategy-as-practice and adaptive implementation perspectives.
+## Inside the presentation
 
-## Findings
-The paper argues that decision rights, information routines, allocation rules and review forums help explain how strategy travels through an organisation. Controls that support discipline under scarcity can become constraints as conditions change.
+The 16-slide deck examines the 2021–2024 implementation context, compares four theoretical perspectives and develops a proposed trigger table and review cycle. The acquisition timeline and capital expenditure chart are checked against official company publications.
 
-## Proposed next step
-Make hold, expand and relax decisions explicit: identify the relevant evidence, name a decision owner and record exceptions. Regularly review whether the rules still fit the operating context. The diagram below is my proposed framework, not Novo Nordisk’s documented internal process.
+Individual paper by Altug Umut Karademir.
 
-## Limits
-Retrospective interpretation of public evidence, not a causal estimate or a current company audit. Proposed decision practices were not tested. Detailed historical timelines are omitted until original references are rechecked.
+![Selected analysis](../dist/assets/novo-strategy-04.jpg)

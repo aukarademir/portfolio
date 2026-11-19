@@ -1,22 +1,17 @@
-# Making a global graduate programme feel inclusive
+# Arla F15
 
-![Case study overview](arla.svg)
+**Employer branding and inclusion** · Copenhagen Business School
 
-CBS group exam project,2025/26. An exploratory academic study, not employment or consultancy for Arla. Findings below describe the group study; individual work is not represented as sole authorship.
+A qualitative study of how corporate identity, global career pathways and everyday belonging shape the employer story. The findings inform a proposed change programme.
 
-**Course:** Organisational Change and Diversity Management
+[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/arla.html) · [PDF](../dist/assets/Arla_F15_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Arla_F15_Case_Study.pptx)
 
-## Question
-How could Arla communicate its F15 graduate programme in a way that makes international pathways and belonging more visible?
+![Arla F15 presentation](../dist/assets/arla-01.jpg)
 
-## Approach
-The group compared qualitative interview themes, structured interpretations of employer-branding webpages and public annual reports. Identity construction and change communication connected the evidence to a proposed intervention.
+## Inside the presentation
 
-## Findings
-The study identified a tension between a strong Nordic, farmer-owned corporate identity and F15’s global positioning. International pathways and inclusion were not always as explicit in the reviewed entry points as the programme promise suggested.
+The 14-slide deck compares corporate and F15 communication, explains the five qualitative themes, visualises the coded-reference comparison between leaders and graduates, and develops the proposed 12-month ADKAR intervention.
 
-## Proposed next step
-An ADKAR-informed change plan would align internal understanding and external messaging, use concrete examples of international pathways and test applicant interpretations. This is a proposal, not a measured recruitment result.
+Group research by Altug Umut Karademir, Anna Gao, Dennis Chen Dai and Emilia Alexandra Prinzler.
 
-## Limits
-A small interview base, interpretive reading and a 2025 website snapshot. No increase in applicant diversity or application conversion was established. No interview transcripts or identifiable quotations are included.
+![Selected analysis](../dist/assets/arla-07.jpg)

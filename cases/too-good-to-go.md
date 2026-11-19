@@ -1,22 +1,17 @@
-# Where the Surprise Bag experience breaks down
+# Too Good To Go
 
-![Case study overview](too-good-to-go.svg)
+**Customer experience audit** · Copenhagen Business School
 
-CBS academic group project, Fall 2025. Not commissioned by Too Good To Go. I prepared the paper, analysis and presentation materials; the original submission is group-authored.
+Customer reviews reveal where the Surprise Bag experience falls short. Journey mapping and PERFA coding connect the findings to two proposed service concepts.
 
-**Course:** Customer Experience and Business Model Innovation
+[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/too-good-to-go.html) · [PDF](../dist/assets/TGTG_Customer_Experience_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/TGTG_Customer_Experience_Case_Study.pptx)
 
-## Question
-How could a food-sharing platform better connect the value people expect with the experience they receive?
+![Too Good To Go presentation](../dist/assets/too-good-to-go-01.jpg)
 
-## Approach
-The audit combined motivation analysis with manual coding of 51 negative Trustpilot reviews:17 each at one, two and three stars. Each complaint was coded for a dominant journey stage and perceived-value dimension. R supported the analysis, with AI-assisted scripting disclosed in the paper.
+## Inside the presentation
 
-## Findings
-Post-purchase experiences accounted for 39 of 51 selected complaints. Performance—the practical quality and quantity of the bag—was the dominant value category, appearing in 32 of 51. These patterns point to areas worth investigating, rather than estimating the experience of all customers.
+The 16-slide deck follows the customer journey and the coding of 51 selected reviews. It includes journey-stage counts, PERFA dimensions, their intersection, descriptive severity comparisons, two service proposals and a phased testing plan.
 
-## Proposed next step
-The coursework proposed a feedback and resolution assistant and a merchant–customer co-creation hub. A focused next experiment would test a post-purchase resolution flow, checking understanding, resolution success and satisfaction before considering a wider rollout.
+I prepared the paper, analysis and presentation materials for the group submission.
 
-## Limits
-Self-selected negative reviews and deliberately balanced star categories limit generalisation. No retention or satisfaction improvement was demonstrated. Motivation charts are omitted until sample descriptions are reconciled.
+![Selected analysis](../dist/assets/too-good-to-go-07.jpg)
