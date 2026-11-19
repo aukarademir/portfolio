@@ -1,6 +1,6 @@
 # Umut Karademir — selected work
 
-[Explore the portfolio](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site)
+[Explore the portfolio](https://aukarademir.github.io/portfolio)
 
 Research, communication and digital product development. This collection brings together product work, academic research and complete business case presentations.
 
