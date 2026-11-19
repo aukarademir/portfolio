@@ -4,7 +4,7 @@
 
 An analysis of how authority, information and operating routines shape expansion under uncertainty. Public evidence informs a practical decision and review framework.
 
-[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/novo-strategy.html) · [PDF](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pptx)
+[Read the full case](https://aukarademir.github.io/portfolio/novo-strategy.html) · [PDF](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/Novo_Nordisk_Strategy_Case_Study.pptx)
 
 ![Novo Nordisk presentation](../dist/assets/novo-strategy-01.jpg)
 
