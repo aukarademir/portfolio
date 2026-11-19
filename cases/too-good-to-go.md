@@ -4,7 +4,7 @@
 
 Customer reviews reveal where the Surprise Bag experience falls short. Journey mapping and PERFA coding connect the findings to two proposed service concepts.
 
-[Read the full case](https://umut-karademir-portfolio.snowy-crumb-3052.chatgpt.site/too-good-to-go.html) · [PDF](../dist/assets/TGTG_Customer_Experience_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/TGTG_Customer_Experience_Case_Study.pptx)
+[Read the full case](https://aukarademir.github.io/portfolio/too-good-to-go.html) · [PDF](../dist/assets/TGTG_Customer_Experience_Case_Study.pdf) · [Editable PowerPoint](../dist/assets/TGTG_Customer_Experience_Case_Study.pptx)
 
 ![Too Good To Go presentation](../dist/assets/too-good-to-go-01.jpg)
 
