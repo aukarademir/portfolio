@@ -1,4 +1,4 @@
-# Umut Karademir — selected work
+# Altug Umut Karademir — selected work
 
 [Explore the portfolio](https://aukarademir.github.io/portfolio)
 
